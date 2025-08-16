@@ -49,10 +49,13 @@
   </main>
 </div>
 <!-- Load global scripts -->
+    <!-- Load question packs before config so PACKS and QUESTION_SETS are populated -->
+    <script src="packs/index.js"></script>
 <script src="js/config.js"></script>
 <script src="js/rt.js"></script>
 <script src="js/sound.js"></script>
-<script src="packs/index.js"></script>
+<!-- Admin gate script to hide admin nav and add logout link on other pages -->
+<script src="js/admin-gate.js"></script>
 <script>
   const APP = window.APP;
   const clearSoloScores = window.clearSoloScores;
@@ -182,12 +185,18 @@
     analyticsDiv.appendChild(p2);
     analyticsDiv.appendChild(p3);
   }
-  // Prompt for admin passcode on load
+  // Passcode gate on load.  Uses sessionStorage to persist admin auth across pages.
   document.addEventListener('DOMContentLoaded', () => {
     loadSettings();
-    const pass = prompt('Enter admin passcode:');
-    const correct = pass === APP.OWNER_PASSCODE;
-    if (correct) {
+    let authed = sessionStorage.getItem('ct_admin_authed') === 'true';
+    if (!authed) {
+      const pass = prompt('Enter admin passcode:');
+      authed = pass === APP.OWNER_PASSCODE;
+      if (authed) {
+        sessionStorage.setItem('ct_admin_authed', 'true');
+      }
+    }
+    if (authed) {
       // Show pack and analytics sections
       packsCard.classList.remove('hidden');
       analyticsCard.classList.remove('hidden');

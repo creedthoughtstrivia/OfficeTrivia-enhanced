@@ -22,13 +22,18 @@ const btnOpenQ = el('#btnOpenQ'), btnCloseQ=el('#btnCloseQ'), btnNextQ=el('#btnN
 const playerCount = el('#playerCount'), qIdxEl=el('#qIdx'), liveInfo=el('#liveInfo'), lbLive=el('#lbLive');
 const hostControls = el('#hostControls');
 
-// Populate question set dropdown
-APP.QUESTION_SETS.forEach(s=>{
-  const o=document.createElement('option');
-  o.value=s.id;
-  o.textContent=s.title;
-  setLive.appendChild(o);
-});
+// Populate question set dropdown.  If no sets exist, hide the dropdown and fallback to all questions.
+if (APP.QUESTION_SETS.length === 0) {
+  // Hide the label/select entirely when no packs are defined
+  if (setLive && setLive.parentElement) setLive.parentElement.style.display = 'none';
+} else {
+  APP.QUESTION_SETS.forEach(s=>{
+    const o=document.createElement('option');
+    o.value=s.id;
+    o.textContent=s.title;
+    setLive.appendChild(o);
+  });
+}
 
 let match = { id:null, data:null };
 

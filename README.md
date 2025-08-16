@@ -51,6 +51,49 @@ available question sets, including the new mega pack.  Sound effects will play
 after your first interaction (browsers require a user gesture to resume the
 audio context).
 
+### Admin access
+
+The admin panel exposes settings, pack management and basic analytics.  It is
+protected by a simple passcode gate.  To set your own passcode, define
+`ADMIN_PASSCODE` either as an environment variable when starting the server or
+via a `.env` file in the project root.  A sample is provided in
+`.env.example`:
+
+```ini
+ADMIN_PASSCODE=dwight-rules-1982
+```
+
+When you navigate to `/admin.html` the first time, the game will prompt you
+for this passcode.  Upon successful entry a session flag is stored in
+`sessionStorage` so you will remain logged in until you click **Admin
+Logout** in the navigation.  Non‑authenticated users will not see the
+**Admin** link in the nav bar and cannot access the page directly.
+
+### Fresh clone quick start
+
+To run the fixed release from a fresh clone:
+
+1. Clone the repository and check out the stable branch:
+
+   ```bash
+   git clone GITHUB_URL
+   cd OfficeTrivia-enhanced
+   git checkout fix/stabilize-release-20250816
+   ```
+
+2. (Optional) Copy `.env.example` to `.env` and set your own `ADMIN_PASSCODE`.
+
+3. Install dependencies if any (`npm install` is *not* required for the pure
+   HTML/JS edition).  The game uses only browser APIs and a simple Python
+   server.
+
+4. Start a local server and open the site:
+
+   ```bash
+   python3 serve.py
+   # then browse to http://localhost:8000
+   ```
+
 ## Firebase configuration
 
 To enable remote leaderboards and live tournaments that sync across devices,

@@ -48,9 +48,13 @@
     </section>
   </main>
 </div>
+    <!-- Load question pack definitions before config so APP.QUESTION_SETS is populated -->
+<script src="packs/index.js"></script>
 <script src="js/config.js"></script>
 <script src="js/rt.js"></script>
 <script src="js/sound.js"></script>
+<!-- Admin gate script to hide admin nav and add logout link -->
+<script src="js/admin-gate.js"></script>
 <script src="js/live.js"></script>
 <script>
   document.querySelectorAll('button, a').forEach(el=>{

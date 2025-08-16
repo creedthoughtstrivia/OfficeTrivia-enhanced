@@ -48,9 +48,13 @@
   </main>
 </div>
 <!-- Load shared scripts -->
+    <!-- Load question pack definitions before config so APP.QUESTION_SETS is populated -->
+    <script src="packs/index.js"></script>
 <script src="js/config.js"></script>
 <script src="js/rt.js"></script>
 <script src="js/sound.js"></script>
+    <!-- Admin gate to manage nav visibility and logout -->
+    <script src="js/admin-gate.js"></script>
 <script src="js/app.js"></script>
 <script>
   // Hide the question set dropdown and select the first pack if available
