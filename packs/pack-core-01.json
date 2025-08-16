@@ -1,0 +1,3257 @@
+{
+  "packId": "pack-core-01",
+  "title": "Core Pack 01",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "OFF-0001",
+      "text": "Where does Michael Scott move to start his new life with Holly?",
+      "choices": [
+        "Tallahassee, Florida",
+        "Scranton, Pennsylvania",
+        "Nashua, New Hampshire",
+        "Boulder, Colorado"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0002",
+      "text": "In which location does Michael Scott move to start his new life with Holly?",
+      "choices": [
+        "Boulder, Colorado",
+        "Scranton, Pennsylvania",
+        "Nashua, New Hampshire",
+        "Tallahassee, Florida"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0003",
+      "text": "What are the names of Jim and Pam Halpert's kids?",
+      "choices": [
+        "Pam Jr. and Cece",
+        "Cece and Michael",
+        "Cecelia 'Cece' and Phillip",
+        "Philomena and Charles"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0004",
+      "text": "Which are the names of Jim and Pam Halpert's kids?",
+      "choices": [
+        "Pam Jr. and Cece",
+        "Philomena and Charles",
+        "Cece and Michael",
+        "Cecelia 'Cece' and Phillip"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0005",
+      "text": "Which of Angela's cats did Dwight kill?",
+      "choices": [
+        "Garbage",
+        "Sprinkles",
+        "Princess Lady",
+        "Bandit"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0006",
+      "text": "Who was Pam engaged to before Jim?",
+      "choices": [
+        "Roy",
+        "Michael",
+        "Darryl",
+        "Kevin"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0007",
+      "text": "Which person was Pam engaged to before Jim?",
+      "choices": [
+        "Michael",
+        "Darryl",
+        "Roy",
+        "Kevin"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0008",
+      "text": "At Phyllis\u2019 wedding, Michael revealed that her nickname in high school was what?",
+      "choices": [
+        "Speed Demon",
+        "Hot Wheels",
+        "Easy Rider",
+        "Free Spirit"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0009",
+      "text": "Which Grammy nominee played Andy\u2019s brother Walter?",
+      "choices": [
+        "John Mayer",
+        "Jason Mraz",
+        "Ed Sheeran",
+        "Josh Groban"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0010",
+      "text": "Who was hired as Michael Scott\u2019s replacement before he moved?",
+      "choices": [
+        "Robert California",
+        "Deangelo Vickers",
+        "Andy Bernard",
+        "Charles Miner"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0011",
+      "text": "Which person was hired as Michael Scott\u2019s replacement before he moved?",
+      "choices": [
+        "Andy Bernard",
+        "Charles Miner",
+        "Robert California",
+        "Deangelo Vickers"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0012",
+      "text": "What was the name of Jan Levinson\u2019s assistant at corporate?",
+      "choices": [
+        "Humbert",
+        "Hunter",
+        "Harry",
+        "Hannah"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0013",
+      "text": "Which was the name of Jan Levinson\u2019s assistant at corporate?",
+      "choices": [
+        "Humbert",
+        "Hunter",
+        "Harry",
+        "Hannah"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0014",
+      "text": "How many minutes did Michael Scott work at the office?",
+      "choices": [
+        "10,000,000 minutes",
+        "9,986,000 minutes",
+        "8,764,000 minutes",
+        "9,000,000 minutes"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0015",
+      "text": "Who won \u201cHottest in the Office\u201d at Michael\u2019s last Dundies?",
+      "choices": [
+        "Andy Bernard",
+        "Danny Cordray",
+        "Ryan Howard",
+        "Jim Halpert"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0016",
+      "text": "Which person won \u201cHottest in the Office\u201d at Michael\u2019s last Dundies?",
+      "choices": [
+        "Andy Bernard",
+        "Ryan Howard",
+        "Jim Halpert",
+        "Danny Cordray"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0017",
+      "text": "Who came up with the toy 'Suck It'?",
+      "choices": [
+        "Dwight Schrute",
+        "Todd Packer",
+        "David Wallace",
+        "Michael Scott"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0018",
+      "text": "Which person came up with the toy 'Suck It'?",
+      "choices": [
+        "Michael Scott",
+        "Todd Packer",
+        "David Wallace",
+        "Dwight Schrute"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0019",
+      "text": "Michael and Dwight tried to steal clients from which local competing business?",
+      "choices": [
+        "Scranton Business Park",
+        "Prince Family Paper",
+        "Staples",
+        "Oscars Paper Supply"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0020",
+      "text": "How many brothers does Jim Halpert have?",
+      "choices": [
+        "Three",
+        "Two",
+        "One",
+        "None"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0021",
+      "text": "What was the name of Stanley Hudson\u2019s mistress?",
+      "choices": [
+        "Sandy",
+        "Cynthia",
+        "Cindy",
+        "Claire"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0022",
+      "text": "Which was the name of Stanley Hudson\u2019s mistress?",
+      "choices": [
+        "Sandy",
+        "Claire",
+        "Cynthia",
+        "Cindy"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0023",
+      "text": "Kelly gave out what as party favors at her America\u2019s Got Talent finale party?",
+      "choices": [
+        "Coffee mugs",
+        "T-shirts",
+        "Bookmarks",
+        "Caps"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0024",
+      "text": "How much does Bob Vance bid on a hug from his wife Phyllis at the auction?",
+      "choices": [
+        "$1,000",
+        "$500",
+        "$100",
+        "$2,000"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0025",
+      "text": "Schrute boys must learn how many rules before the age of 5?",
+      "choices": [
+        "40",
+        "100",
+        "20",
+        "12"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0026",
+      "text": "What was Plop\u2019s actual name?",
+      "choices": [
+        "Clark",
+        "Nate",
+        "Lucas",
+        "Pete"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0027",
+      "text": "Which was Plop\u2019s actual name?",
+      "choices": [
+        "Pete",
+        "Lucas",
+        "Clark",
+        "Nate"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0028",
+      "text": "Who did Michael end up taking to Jamaica?",
+      "choices": [
+        "Pam Beesly",
+        "Jan Levinson",
+        "Holly Flax",
+        "Packer"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0029",
+      "text": "Which person did Michael end up taking to Jamaica?",
+      "choices": [
+        "Pam Beesly",
+        "Jan Levinson",
+        "Packer",
+        "Holly Flax"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0030",
+      "text": "Ryan caused the fire at the office warming up what?",
+      "choices": [
+        "Chicken nuggets",
+        "Popcorn",
+        "A bagel",
+        "A cheese pita"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0031",
+      "text": "What was the name of Andy\u2019s a cappella group at Cornell?",
+      "choices": [
+        "Straight No Chaser",
+        "Pitch Slapped",
+        "Here Comes Treble",
+        "The Treblemakers"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0032",
+      "text": "Which was the name of Andy\u2019s a cappella group at Cornell?",
+      "choices": [
+        "The Treblemakers",
+        "Pitch Slapped",
+        "Straight No Chaser",
+        "Here Comes Treble"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0033",
+      "text": "Who came in first place in the Michael Scott\u2019s Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies Awareness Pro\u2011Am Fun Run Race for the Cure?",
+      "choices": [
+        "Toby Flenderson",
+        "Andy Bernard",
+        "Michael Scott",
+        "Creed Bratton"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0034",
+      "text": "Which person came in first place in the Michael Scott\u2019s Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies Awareness Pro\u2011Am Fun Run Race for the Cure?",
+      "choices": [
+        "Andy Bernard",
+        "Michael Scott",
+        "Toby Flenderson",
+        "Creed Bratton"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0035",
+      "text": "Finish Dwight\u2019s security code: \u2018The tea in Nepal is very hot\u2026\u2019",
+      "choices": [
+        "...yet the tea in China is hotter",
+        "...and the cocoa in Cuba is sweet",
+        "...but the milk in India is warm",
+        "But the coffee in Peru is much hotter"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0036",
+      "text": "What is the name of the building security guard?",
+      "choices": [
+        "Hank",
+        "Carl",
+        "Frank",
+        "Doug"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0037",
+      "text": "Which is the name of the building security guard?",
+      "choices": [
+        "Frank",
+        "Hank",
+        "Carl",
+        "Doug"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0038",
+      "text": "What does Dwight always keep an extra set of in his car for special occasions?",
+      "choices": [
+        "Beets",
+        "Birkenstocks",
+        "Tuxedos",
+        "Crossbows"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0039",
+      "text": "Which does Dwight always keep an extra set of in his car for special occasions?",
+      "choices": [
+        "Crossbows",
+        "Tuxedos",
+        "Beets",
+        "Birkenstocks"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0040",
+      "text": "Pam and Jim\u2019s first kiss took place where?",
+      "choices": [
+        "Reception",
+        "The parking lot",
+        "The warehouse",
+        "Chili\u2019s"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0041",
+      "text": "What is the title of Michael\u2019s homemade movie?",
+      "choices": [
+        "Midnight Threat",
+        "Agent Scarn",
+        "Threat Level Midnight",
+        "Into the Scrantonverse"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0042",
+      "text": "Which is the title of Michael\u2019s homemade movie?",
+      "choices": [
+        "Into the Scrantonverse",
+        "Midnight Threat",
+        "Threat Level Midnight",
+        "Agent Scarn"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0043",
+      "text": "What is the name of Kevin, Kelly, Erin and Meredith\u2019s trivia team?",
+      "choices": [
+        "Quizzard of Oz",
+        "Scrantonicity 2",
+        "Quizteama Aguilera",
+        "The Einsteins"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0044",
+      "text": "Which is the name of Kevin, Kelly, Erin and Meredith\u2019s trivia team?",
+      "choices": [
+        "Scrantonicity 2",
+        "Quizzard of Oz",
+        "The Einsteins",
+        "Quizteama Aguilera"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0045",
+      "text": "What is Erin Hannon\u2019s real first name?",
+      "choices": [
+        "Emma",
+        "Emily",
+        "Erin",
+        "Kelly"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0046",
+      "text": "Which is Erin Hannon\u2019s real first name?",
+      "choices": [
+        "Erin",
+        "Emma",
+        "Emily",
+        "Kelly"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0047",
+      "text": "Who did Kevin get for Secret Santa?",
+      "choices": [
+        "Oscar",
+        "Angela",
+        "Himself",
+        "Pam"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0048",
+      "text": "Which person did Kevin get for Secret Santa?",
+      "choices": [
+        "Pam",
+        "Himself",
+        "Angela",
+        "Oscar"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0049",
+      "text": "What is Pam\u2019s favorite yogurt flavor?",
+      "choices": [
+        "Mixed berry",
+        "Vanilla",
+        "Strawberry",
+        "Blueberry"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0050",
+      "text": "Which is Pam\u2019s favorite yogurt flavor?",
+      "choices": [
+        "Vanilla",
+        "Blueberry",
+        "Mixed berry",
+        "Strawberry"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0051",
+      "text": "What is the name of Pam, Oscar and Toby\u2019s club?",
+      "choices": [
+        "Culture Society",
+        "The Office Book Club",
+        "The Finer Things Club",
+        "The Gourmet Club"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0052",
+      "text": "Which is the name of Pam, Oscar and Toby\u2019s club?",
+      "choices": [
+        "The Finer Things Club",
+        "The Office Book Club",
+        "Culture Society",
+        "The Gourmet Club"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0053",
+      "text": "Ryan\u2019s son Drake Howard is allergic to what fruit?",
+      "choices": [
+        "Bananas",
+        "Pears",
+        "Apples",
+        "Strawberries"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0054",
+      "text": "What is the name of Dwight\u2019s porcupine?",
+      "choices": [
+        "Prickly Pete",
+        "Quill",
+        "Spike",
+        "Henrietta"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0055",
+      "text": "Which is the name of Dwight\u2019s porcupine?",
+      "choices": [
+        "Quill",
+        "Spike",
+        "Henrietta",
+        "Prickly Pete"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0056",
+      "text": "Who was on the jury for the Scranton Strangler case?",
+      "choices": [
+        "Creed",
+        "Toby",
+        "Kelly",
+        "Jim"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0057",
+      "text": "Which person was on the jury for the Scranton Strangler case?",
+      "choices": [
+        "Jim",
+        "Creed",
+        "Kelly",
+        "Toby"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0058",
+      "text": "What username does Michael pick for an online dating service?",
+      "choices": [
+        "PaperKing",
+        "Date Mike",
+        "World\u2019s Best Boss",
+        "Little Kid Lover"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0059",
+      "text": "Which username does Michael pick for an online dating service?",
+      "choices": [
+        "Date Mike",
+        "Little Kid Lover",
+        "World\u2019s Best Boss",
+        "PaperKing"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0060",
+      "text": "Which Harry Potter book did Dwight say he\u2019d take to a desert island?",
+      "choices": [
+        "Harry Potter and the Prisoner of Azkaban",
+        "The Sorcerer\u2019s Stone",
+        "The Deathly Hallows",
+        "The Chamber of Secrets"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0061",
+      "text": "In which season does Michael leave The Office?",
+      "choices": [
+        "Season 8",
+        "Season 6",
+        "Season 7",
+        "Season 5"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0062",
+      "text": "Dwight brought who as his date to Michael and Jan\u2019s dinner party?",
+      "choices": [
+        "His former babysitter",
+        "His karate teacher",
+        "His cousin Mose",
+        "Angela"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0063",
+      "text": "What nickname does Andy give Jim?",
+      "choices": [
+        "Big Tuna",
+        "Slim Jim",
+        "Old Hat",
+        "Jimmy Jam"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0064",
+      "text": "Which nickname does Andy give Jim?",
+      "choices": [
+        "Big Tuna",
+        "Old Hat",
+        "Jimmy Jam",
+        "Slim Jim"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0065",
+      "text": "While playing \u2018Who would you do?\u2019 in the office, Michael says he\u2019d have sex with which coworker?",
+      "choices": [
+        "Pam",
+        "Ryan",
+        "Jim",
+        "Jan"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0066",
+      "text": "While playing \u2018Which person would you do?\u2019 in the office, Michael says he\u2019d have sex with which coworker?",
+      "choices": [
+        "Ryan",
+        "Jan",
+        "Jim",
+        "Pam"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0067",
+      "text": "Michael likes waking up to the smell of what in the morning?",
+      "choices": [
+        "Coffee",
+        "Fresh paper",
+        "Bacon",
+        "Pancakes"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0068",
+      "text": "What is the name of Kevin Malone\u2019s band?",
+      "choices": [
+        "Dunderbeats",
+        "Scrantonicity",
+        "Rocknation",
+        "The Police"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0069",
+      "text": "Which is the name of Kevin Malone\u2019s band?",
+      "choices": [
+        "Rocknation",
+        "The Police",
+        "Dunderbeats",
+        "Scrantonicity"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0070",
+      "text": "Jim bought Pam\u2019s engagement ring how long after they started dating?",
+      "choices": [
+        "One month",
+        "The same day",
+        "One week",
+        "One year"
+      ],
+      "answerIndex": 2,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0071",
+      "text": "Since Michael can\u2019t pay for his students\u2019 college tuition, what does he offer them instead?",
+      "choices": [
+        "Thumb drives",
+        "Lithium batteries",
+        "Laptop computers",
+        "Promised jobs"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0072",
+      "text": "What is the worst thing about prison, according to Prison Mike?",
+      "choices": [
+        "The uniforms",
+        "The Dementors",
+        "The food",
+        "The guards"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0073",
+      "text": "Which is the worst thing about prison, according to Prison Mike?",
+      "choices": [
+        "The Dementors",
+        "The uniforms",
+        "The guards",
+        "The food"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0074",
+      "text": "Meredith Palmer has a Ph.D. in what?",
+      "choices": [
+        "School Psychology",
+        "English",
+        "Business",
+        "Anthropology"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": ""
+    },
+    {
+      "id": "OFF-0075",
+      "text": "Which department does Creed list as his job at Dunder Mifflin?",
+      "choices": [
+        "Quality Assurance",
+        "Sales",
+        "Accounting",
+        "HR"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0076",
+      "text": "Creed once dyed his hair for which occasion?",
+      "choices": [
+        "A job interview",
+        "Halloween",
+        "A wedding",
+        "A court date"
+      ],
+      "answerIndex": 1,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0077",
+      "text": "Creed runs a blog that is actually what?",
+      "choices": [
+        "A Word doc",
+        "A MySpace page",
+        "A real blog",
+        "An email list"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0078",
+      "text": "Creed often confuses which coworker\u2019s name?",
+      "choices": [
+        "Angela",
+        "Oscar",
+        "Meredith",
+        "Karen"
+      ],
+      "answerIndex": 2,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0079",
+      "text": "What instrument does Creed play?",
+      "choices": [
+        "Guitar",
+        "Drums",
+        "Piano",
+        "Harmonica"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0080",
+      "text": "Creed claims to have been in which band?",
+      "choices": [
+        "The Grass Roots",
+        "The Doors",
+        "The Monkees",
+        "The Byrds"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0081",
+      "text": "What department is Creed in at Dunder Mifflin?",
+      "choices": [
+        "Quality Assurance",
+        "Sales",
+        "Accounting",
+        "Human Resources"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0082",
+      "text": "Creed\u2019s \u2018blog\u2019 was actually what?",
+      "choices": [
+        "A Word document",
+        "A MySpace page",
+        "A real Tumblr",
+        "An email newsletter"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0083",
+      "text": "Which instrument does Creed play?",
+      "choices": [
+        "Guitar",
+        "Drums",
+        "Piano",
+        "Violin"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0084",
+      "text": "Which real band was Creed (the actor) a member of?",
+      "choices": [
+        "The Grass Roots",
+        "The Doors",
+        "The Monkees",
+        "The Byrds"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0085",
+      "text": "Around Halloween, what did Creed suddenly change about his appearance?",
+      "choices": [
+        "Jet\u2011black dyed hair",
+        "Shaved eyebrows",
+        "Bleached beard",
+        "Face paint"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0086",
+      "text": "What paper company do the employees work for?",
+      "choices": [
+        "Dunder Mifflin",
+        "Wernham Hogg",
+        "Pied Piper",
+        "Vance Paper"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0087",
+      "text": "Who is the Scranton branch regional manager for most of the early series?",
+      "choices": [
+        "Michael Scott",
+        "Jan Levinson",
+        "Jim Halpert",
+        "Dwight Schrute"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0088",
+      "text": "Jim and Pam get married at which famous location?",
+      "choices": [
+        "Niagara Falls",
+        "Central Park",
+        "Lake Scranton",
+        "The Poconos"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0089",
+      "text": "Dwight owns which kind of farm?",
+      "choices": [
+        "A beet farm",
+        "A corn farm",
+        "A pumpkin farm",
+        "A dairy farm"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0090",
+      "text": "Angela\u2019s beloved cat that met an unfortunate end was named\u2026",
+      "choices": [
+        "Sprinkles",
+        "Bandit",
+        "Garbage",
+        "Princess Lady"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0091",
+      "text": "Kevin is most famously associated with what mishap?",
+      "choices": [
+        "Spilling his chili",
+        "Locking himself in the bathroom",
+        "Dropping a wedding cake",
+        "Shrinking a sweater"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0092",
+      "text": "Stanley\u2019s favorite office day is\u2026",
+      "choices": [
+        "Pretzel Day",
+        "Casual Friday",
+        "Scranton Day",
+        "Movie Monday"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": ""
+    },
+    {
+      "id": "OFF-0093",
+      "text": "Who said, \"Bears. Beets. Battlestar Galactica.\"?",
+      "choices": [
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Michael Scott",
+        "Andy Bernard"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S3E20"
+    },
+    {
+      "id": "OFF-0094",
+      "text": "Who said, \"I am Beyonc\u00e9, always.\"?",
+      "choices": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Kelly Kapoor",
+        "Andy Bernard"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S5E25"
+    },
+    {
+      "id": "OFF-0095",
+      "text": "Who said, \"I'm not superstitious, but I am a little stitious.\"?",
+      "choices": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Pam Beesly",
+        "Kevin Malone"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S4E3"
+    },
+    {
+      "id": "OFF-0096",
+      "text": "Who said, \"I declare bankruptcy!\"?",
+      "choices": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Stanley Hudson",
+        "Creed Bratton"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S4E4"
+    },
+    {
+      "id": "OFF-0097",
+      "text": "Who said, \"The worst thing about prison was the Dementors.\"?",
+      "choices": [
+        "Prison Mike",
+        "Jim Halpert",
+        "Oscar Martinez",
+        "Andy Bernard"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S3E9"
+    },
+    {
+      "id": "OFF-0098",
+      "text": "Who said, \"Identity theft is not a joke, Jim!\"?",
+      "choices": [
+        "Dwight Schrute",
+        "Michael Scott",
+        "Andy Bernard",
+        "Kevin Malone"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S3E20"
+    },
+    {
+      "id": "OFF-0099",
+      "text": "Who said, \"Would I rather be feared or loved? Easy. Both.\"?",
+      "choices": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Jan Levinson",
+        "Angela Martin"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S2E6"
+    },
+    {
+      "id": "OFF-0100",
+      "text": "Who said, \"I'm running away from my responsibilities. And it feels good.\"?",
+      "choices": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Pam Beesly",
+        "Angela Martin"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S4E7"
+    },
+    {
+      "id": "OFF-0101",
+      "text": "Who said, \"Sometimes I'll start a sentence and I don't even know where it's going.\"?",
+      "choices": [
+        "Michael Scott",
+        "Kevin Malone",
+        "Jim Halpert",
+        "Phyllis Vance"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S5E9"
+    },
+    {
+      "id": "OFF-0102",
+      "text": "Who said, \"You miss 100% of the shots you don't take. \u2014 Wayne Gretzky \u2014 Michael Scott\"?",
+      "choices": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Ryan Howard"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S5E23"
+    },
+    {
+      "id": "OFF-0103",
+      "text": "Who said, \"That's what she said.\"?",
+      "choices": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Andy Bernard"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "Various"
+    },
+    {
+      "id": "OFF-0104",
+      "text": "Who said, \"I feel God in this Chili's tonight.\"?",
+      "choices": [
+        "Pam Beesly",
+        "Michael Scott",
+        "Erin Hannon",
+        "Angela Martin"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S2E1"
+    },
+    {
+      "id": "OFF-0105",
+      "text": "Who said, \"The eyes are the groin of the head.\"?",
+      "choices": [
+        "Dwight Schrute",
+        "Michael Scott",
+        "Jim Halpert",
+        "Kevin Malone"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S3E2"
+    },
+    {
+      "id": "OFF-0106",
+      "text": "Who said, \"Catch you on the flippity flip!\"?",
+      "choices": [
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Andy Bernard",
+        "Kevin Malone"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S5E23"
+    },
+    {
+      "id": "OFF-0107",
+      "text": "Who said, \"I have been trying to get on jury duty every year since I was 18 years old.\"?",
+      "choices": [
+        "Creed Bratton",
+        "Angela Martin",
+        "Stanley Hudson",
+        "Kelly Kapoor"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S7E3"
+    },
+    {
+      "id": "OFF-0108",
+      "text": "Who said, \"Oh, it's on, like a prawn who yawns at dawn.\"?",
+      "choices": [
+        "Andy Bernard",
+        "Michael Scott",
+        "Jim Halpert",
+        "Pam Beesly"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S5E23"
+    },
+    {
+      "id": "OFF-0109",
+      "text": "Who said, \"I feel like all my kids grew up, and then they married each other.\"?",
+      "choices": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Jim Halpert",
+        "Kevin Malone"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S7E22"
+    },
+    {
+      "id": "OFF-0110",
+      "text": "Who said, \"I'm dead inside.\"?",
+      "choices": [
+        "Stanley Hudson",
+        "Angela Martin",
+        "Creed Bratton",
+        "Phyllis Vance"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S3E15"
+    },
+    {
+      "id": "OFF-0111",
+      "text": "Who said, \"Occasionally, I'll hit somebody with my car.\"?",
+      "choices": [
+        "Michael Scott",
+        "Meredith Palmer",
+        "Ryan Howard",
+        "Stanley Hudson"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S4E1"
+    },
+    {
+      "id": "OFF-0112",
+      "text": "Who said, \"Boom! Roasted.\"?",
+      "choices": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Pam Beesly"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S5E15"
+    },
+    {
+      "id": "OFF-0113",
+      "text": "What is Jim Halpert's job at Dunder Mifflin?",
+      "choices": [
+        "Sales Representative",
+        "Receptionist",
+        "Accountant",
+        "Branch Manager"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E1"
+    },
+    {
+      "id": "OFF-0114",
+      "text": "What is Pam Beesly's job at Dunder Mifflin?",
+      "choices": [
+        "Receptionist",
+        "Sales Representative",
+        "HR Representative",
+        "Customer Service Rep"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E1"
+    },
+    {
+      "id": "OFF-0115",
+      "text": "What is Dwight Schrute's job at Dunder Mifflin?",
+      "choices": [
+        "Assistant to the Regional Manager",
+        "Accountant",
+        "Sales Representative",
+        "Janitor"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E1"
+    },
+    {
+      "id": "OFF-0116",
+      "text": "What is Andy Bernard's job at Dunder Mifflin?",
+      "choices": [
+        "Regional Director in Charge of Sales",
+        "HR Representative",
+        "Warehouse Manager",
+        "IT Supervisor"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S3E1"
+    },
+    {
+      "id": "OFF-0117",
+      "text": "What is Angela Martin's job at Dunder Mifflin?",
+      "choices": [
+        "Head of the Party Planning Committee",
+        "Head of Accounting",
+        "Receptionist",
+        "Sales Lead"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S2E1"
+    },
+    {
+      "id": "OFF-0118",
+      "text": "What is Michael Scott's job at Dunder Mifflin?",
+      "choices": [
+        "Regional Manager",
+        "HR Representative",
+        "CEO",
+        "Receptionist"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E1"
+    },
+    {
+      "id": "OFF-0119",
+      "text": "What is Kevin Malone's job at Dunder Mifflin?",
+      "choices": [
+        "Accountant",
+        "Sales Representative",
+        "Warehouse Worker",
+        "Receptionist"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E1"
+    },
+    {
+      "id": "OFF-0120",
+      "text": "What is Oscar Martinez's job at Dunder Mifflin?",
+      "choices": [
+        "Accountant",
+        "Sales Representative",
+        "Customer Service Rep",
+        "Warehouse Foreman"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E2"
+    },
+    {
+      "id": "OFF-0121",
+      "text": "What is Meredith Palmer's job at Dunder Mifflin?",
+      "choices": [
+        "Supplier Relations",
+        "Receptionist",
+        "Sales Lead",
+        "IT Technician"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E2"
+    },
+    {
+      "id": "OFF-0122",
+      "text": "What is Stanley Hudson's job at Dunder Mifflin?",
+      "choices": [
+        "Sales Representative",
+        "Warehouse Foreman",
+        "Security Guard",
+        "IT Technician"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E2"
+    },
+    {
+      "id": "OFF-0123",
+      "text": "What is Ryan Howard's job at Dunder Mifflin?",
+      "choices": [
+        "Temp",
+        "HR Representative",
+        "Receptionist",
+        "Sales Representative"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E2"
+    },
+    {
+      "id": "OFF-0124",
+      "text": "What is Toby Flenderson's job at Dunder Mifflin?",
+      "choices": [
+        "HR Representative",
+        "Accountant",
+        "Sales Rep",
+        "Receptionist"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E2"
+    },
+    {
+      "id": "OFF-0125",
+      "text": "What is Phyllis Vance's job at Dunder Mifflin?",
+      "choices": [
+        "Sales Representative",
+        "Accountant",
+        "Receptionist",
+        "IT Supervisor"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E1"
+    },
+    {
+      "id": "OFF-0126",
+      "text": "What is Kelly Kapoor's job at Dunder Mifflin?",
+      "choices": [
+        "Customer Service Representative",
+        "Sales Representative",
+        "Receptionist",
+        "HR Representative"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E2"
+    },
+    {
+      "id": "OFF-0127",
+      "text": "What is Erin Hannon's job at Dunder Mifflin?",
+      "choices": [
+        "Receptionist",
+        "Sales Representative",
+        "Accountant",
+        "IT Technician"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S5E23"
+    },
+    {
+      "id": "OFF-0128",
+      "text": "What is Creed Bratton's job at Dunder Mifflin?",
+      "choices": [
+        "Quality Assurance",
+        "Sales Representative",
+        "Janitor",
+        "Warehouse Manager"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S2E3"
+    },
+    {
+      "id": "OFF-0129",
+      "text": "What is Darryl Philbin's job at Dunder Mifflin?",
+      "choices": [
+        "Warehouse Manager",
+        "Sales Representative",
+        "Security Guard",
+        "HR Representative"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E1"
+    },
+    {
+      "id": "OFF-0130",
+      "text": "What is Mose Schrute's job at Dunder Mifflin?",
+      "choices": [
+        "Beet Farmer",
+        "Security Guard",
+        "Receptionist",
+        "Musician"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S3E7"
+    },
+    {
+      "id": "OFF-0131",
+      "text": "What is Holly Flax's job at Dunder Mifflin?",
+      "choices": [
+        "HR Representative",
+        "Receptionist",
+        "Accountant",
+        "CEO"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S4E11"
+    },
+    {
+      "id": "OFF-0132",
+      "text": "What is Jan Levinson's job at Dunder Mifflin?",
+      "choices": [
+        "Vice President of Northeast Sales",
+        "Regional Manager",
+        "HR Director",
+        "Customer Service Rep"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S1E3"
+    },
+    {
+      "id": "OFF-0133",
+      "text": "Who is Jim Halpert's romantic partner on the show?",
+      "choices": [
+        "Pam Beesly",
+        "Karen Filippelli",
+        "Angela Martin",
+        "Kelly Kapoor"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S9E22"
+    },
+    {
+      "id": "OFF-0134",
+      "text": "Who is Pam Beesly's romantic partner on the show?",
+      "choices": [
+        "Jim Halpert",
+        "Roy Anderson",
+        "Michael Scott",
+        "Toby Flenderson"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S9E22"
+    },
+    {
+      "id": "OFF-0135",
+      "text": "Who is Dwight Schrute's romantic partner on the show?",
+      "choices": [
+        "Angela Martin",
+        "Kelly Kapoor",
+        "Jan Levinson",
+        "Erin Hannon"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S9E24"
+    },
+    {
+      "id": "OFF-0136",
+      "text": "Who is Michael Scott's romantic partner on the show?",
+      "choices": [
+        "Holly Flax",
+        "Jan Levinson",
+        "Donna Newton",
+        "Helene Beesly"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S7E24"
+    },
+    {
+      "id": "OFF-0137",
+      "text": "Who is Andy Bernard's romantic partner on the show?",
+      "choices": [
+        "Angela Martin",
+        "Erin Hannon",
+        "Kelly Kapoor",
+        "Pam Beesly"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S5E8"
+    },
+    {
+      "id": "OFF-0138",
+      "text": "Who is Ryan Howard's romantic partner on the show?",
+      "choices": [
+        "Kelly Kapoor",
+        "Erin Hannon",
+        "Meredith Palmer",
+        "Angela Martin"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S8E15"
+    },
+    {
+      "id": "OFF-0139",
+      "text": "Who is Phyllis Vance's romantic partner on the show?",
+      "choices": [
+        "Bob Vance",
+        "Roy Anderson",
+        "Stanley Hudson",
+        "Kevin Malone"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S3E16"
+    },
+    {
+      "id": "OFF-0140",
+      "text": "Who is Angela Martin's romantic partner on the show?",
+      "choices": [
+        "Dwight Schrute",
+        "Robert Lipton",
+        "Andy Bernard",
+        "Roy Anderson"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S9E24"
+    },
+    {
+      "id": "OFF-0141",
+      "text": "Who is Oscar Martinez's romantic partner on the show?",
+      "choices": [
+        "Gil",
+        "Kevin Malone",
+        "Ryan Howard",
+        "Michael Scott"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S3E9"
+    },
+    {
+      "id": "OFF-0142",
+      "text": "Who is Kelly Kapoor's romantic partner on the show?",
+      "choices": [
+        "Ryan Howard",
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Michael Scott"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S8E15"
+    },
+    {
+      "id": "OFF-0143",
+      "text": "Who is Jan Levinson's romantic partner on the show?",
+      "choices": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Creed Bratton",
+        "Ryan Howard"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S4E9"
+    },
+    {
+      "id": "OFF-0144",
+      "text": "Who is Roy Anderson's romantic partner on the show?",
+      "choices": [
+        "Pam Beesly",
+        "Angela Martin",
+        "Phyllis Vance",
+        "Kelly Kapoor"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S3E10"
+    },
+    {
+      "id": "OFF-0145",
+      "text": "Who is Holly Flax's romantic partner on the show?",
+      "choices": [
+        "Michael Scott",
+        "A.J.",
+        "Oscar Martinez",
+        "Darryl Philbin"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S7E24"
+    },
+    {
+      "id": "OFF-0146",
+      "text": "Who is Erin Hannon's romantic partner on the show?",
+      "choices": [
+        "Andy Bernard",
+        "Gabe Lewis",
+        "Kevin Malone",
+        "Michael Scott"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S8E13"
+    },
+    {
+      "id": "OFF-0147",
+      "text": "Who is Bob Vance's romantic partner on the show?",
+      "choices": [
+        "Phyllis Vance",
+        "Pam Beesly",
+        "Meredith Palmer",
+        "Karen Filippelli"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S3E16"
+    },
+    {
+      "text": "Who was the very first actor cast for the U.S. version of The Office?",
+      "choices": [
+        "John Krasinski",
+        "B.J. Novak",
+        "Rainn Wilson",
+        "Steve Carell"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0148"
+    },
+    {
+      "text": "Which actor convinced producers to let him audition for Jim instead of Dwight, then worried aloud that Americans would ruin the adaptation?",
+      "choices": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Seth Rogen",
+        "Adam Scott"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Auditions",
+      "id": "OFF-0149"
+    },
+    {
+      "text": "Which comedian auditioned for the role of Dwight Schrute before Rainn Wilson was cast?",
+      "choices": [
+        "Seth Rogen",
+        "Adam Scott",
+        "Eric Stonestreet",
+        "John Krasinski"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0150"
+    },
+    {
+      "text": "Eric Stonestreet \u2014 later of Modern Family fame \u2014 auditioned for which role on The Office?",
+      "choices": [
+        "Michael Scott",
+        "Kevin Malone",
+        "Creed Bratton",
+        "Stanley Hudson"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0151"
+    },
+    {
+      "text": "Before being cast as Angela Martin, which character did Angela Kinsey audition for?",
+      "choices": [
+        "Pam Beesly",
+        "Meredith Palmer",
+        "Kelly Kapoor",
+        "Jan Levinson"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0152"
+    },
+    {
+      "text": "Who was originally cast as Michael Scott before Steve Carell took over the role?",
+      "choices": [
+        "Bob Odenkirk",
+        "David Koechner",
+        "Ricky Gervais",
+        "Will Ferrell"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0153"
+    },
+    {
+      "text": "Which actor shot footage of Scranton that ended up being used in the show's opening credits?",
+      "choices": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Steve Carell",
+        "B.J. Novak"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0154"
+    },
+    {
+      "text": "Several cast members interned for which late\u2011night host before starring on The Office?",
+      "choices": [
+        "Jimmy Fallon",
+        "Conan O'Brien",
+        "David Letterman",
+        "Jay Leno"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Cast Careers",
+      "id": "OFF-0155"
+    },
+    {
+      "text": "What was Phyllis Smith's job when she was asked to play her namesake character?",
+      "choices": [
+        "Casting associate",
+        "Script supervisor",
+        "Costume designer",
+        "Location scout"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0156"
+    },
+    {
+      "text": "The pilot episode of the U.S. Office reused the script from which version of the show?",
+      "choices": [
+        "Seinfeld",
+        "The Office (UK)",
+        "Arrested Development",
+        "Parks and Recreation"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Pilot",
+      "id": "OFF-0157"
+    },
+    {
+      "text": "The Scranton branch's address, 1725 Slough Avenue, is a nod to what?",
+      "choices": [
+        "A street in Scranton",
+        "A town in England",
+        "The NBC studio",
+        "Greg Daniels' hometown"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Easter Egg",
+      "id": "OFF-0158"
+    },
+    {
+      "text": "Which digital platform's popularity helped save The Office by boosting its second\u2011season ratings?",
+      "choices": [
+        "Pandora",
+        "iTunes",
+        "LimeWire",
+        "MySpace"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Distribution",
+      "id": "OFF-0159"
+    },
+    {
+      "text": "Who wrote the demo for the show's theme song that the cast later voted on?",
+      "choices": [
+        "Jay Ferguson",
+        "Bob Thiele Jr.",
+        "Greg Daniels",
+        "Mindy Kaling"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Music",
+      "id": "OFF-0160"
+    },
+    {
+      "text": "The Office theme song was re\u2011recorded by Jay Ferguson and a band later dubbed what?",
+      "choices": [
+        "The Beet Farm Boys",
+        "The Scrantones",
+        "The Dunder Band",
+        "The Dundies"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Music",
+      "id": "OFF-0161"
+    },
+    {
+      "text": "According to the CPR training episode, chest compressions should be performed to the beat of which song?",
+      "choices": [
+        "Stayin' Alive",
+        "Another One Bites the Dust",
+        "I Will Survive",
+        "Eye of the Tiger"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Episode: Stress Relief",
+      "id": "OFF-0162"
+    },
+    {
+      "text": "Michael bungled the office's pizza order by picking Pizza By Alfredo instead of which real Scranton eatery?",
+      "choices": [
+        "Alfredo's Pizza Caf\u00e9",
+        "Sabre Pizza Kitchen",
+        "Scranton Slices",
+        "Vance Pizza Co."
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0163"
+    },
+    {
+      "text": "Which office supply retailer began selling Dunder Mifflin paper in real life in 2011?",
+      "choices": [
+        "Quill.com",
+        "Office Depot",
+        "Staples",
+        "OfficeMax"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Merchandise",
+      "id": "OFF-0164"
+    },
+    {
+      "text": "Whose number was 'retired' on the call sheet after they left the show?",
+      "choices": [
+        "Rainn Wilson",
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0165"
+    },
+    {
+      "text": "During Steve Carell's final episode, what instruction did producers give Jenna Fischer for her goodbye scene?",
+      "choices": [
+        "Stick to the script",
+        "Say whatever you'd want to say to Steve",
+        "Use cue cards",
+        "Avoid hugging"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Filming",
+      "id": "OFF-0166"
+    },
+    {
+      "text": "In the 'Michael Scott Paper Company' arc, what kind of pet does Michael keep changing each episode?",
+      "choices": [
+        "Fish",
+        "Hamster",
+        "Dog",
+        "Cat"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Episode: MSPC",
+      "id": "OFF-0167"
+    },
+    {
+      "text": "Why did the writers choose Andy Bernard to become manager instead of Darryl in the final seasons?",
+      "choices": [
+        "Andy is a people person",
+        "Darryl demanded more pay",
+        "NBC executives insisted",
+        "Ed Helms threatened to quit"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0168"
+    },
+    {
+      "text": "Which actor's cameo as Robert California turned into a season\u2011long role because the writers loved his performance?",
+      "choices": [
+        "Will Ferrell",
+        "James Spader",
+        "Idris Elba",
+        "Charles Esten"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0169"
+    },
+    {
+      "text": "At the table read for the series finale, who read Michael Scott's lines to keep Steve Carell's return secret?",
+      "choices": [
+        "Greg Daniels",
+        "Creed Bratton",
+        "Paul Lieberstein",
+        "Rainn Wilson"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0170"
+    },
+    {
+      "text": "What was the working title of the Dwight Schrute spin\u2011off that NBC ultimately passed on?",
+      "choices": [
+        "The Farm",
+        "Schrute Farms",
+        "Dwight & Mose",
+        "Beet Beat"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0171"
+    },
+    {
+      "text": "Which comedy series was developed by the same producers and originally considered a spin\u2011off of The Office?",
+      "choices": [
+        "Parks and Recreation",
+        "Brooklyn Nine\u2011Nine",
+        "30 Rock",
+        "Scrubs"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0172"
+    },
+    {
+      "text": "Which website allows fans to browse hundreds of the show's famous fourth\u2011wall stares?",
+      "choices": [
+        "theofficestaremachine.com",
+        "starescranton.com",
+        "dunderstare.org",
+        "lookintocamera.tv"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Interactive",
+      "id": "OFF-0173"
+    },
+    {
+      "text": "Before she was cast, Angela Kinsey worked as a phone operator for which service?",
+      "choices": [
+        "1\u2011800\u2011DENTIST",
+        "1\u2011800\u2011FLOWERS",
+        "AAA",
+        "TeleFlora"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0174"
+    },
+    {
+      "text": "During season three, John Krasinski wore what on his head because he cut his hair for a movie?",
+      "choices": [
+        "A wig",
+        "A hat",
+        "A toupee",
+        "Nothing"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Wardrobe",
+      "id": "OFF-0175"
+    },
+    {
+      "text": "The kiss between Oscar and Michael was what?",
+      "choices": [
+        "Fully scripted",
+        "Improvised by Steve Carell",
+        "CGI",
+        "Cut from the original version"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Episode: Gay Witch Hunt",
+      "id": "OFF-0176"
+    },
+    {
+      "text": "What temperature was the set kept at because Steve Carell sweats easily?",
+      "choices": [
+        "68\u00b0F",
+        "64\u00b0F",
+        "70\u00b0F",
+        "60\u00b0F"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0177"
+    },
+    {
+      "text": "Which actor also auditioned for the role of Michael Scott in addition to Rainn Wilson and Bob Odenkirk?",
+      "choices": [
+        "Rainn Wilson",
+        "Bob Odenkirk",
+        "Paul Giamatti",
+        "Rainn auditioned, the others didn't"
+      ],
+      "answerIndex": 2,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0178"
+    },
+    {
+      "text": "Which season of The Office was the only one filmed in an actual office building rather than a soundstage?",
+      "choices": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0179"
+    },
+    {
+      "text": "Who played Pam's lactation consultant in the episode 'The Delivery'?",
+      "choices": [
+        "Lee Kirk",
+        "David Denman",
+        "Angela Kinsey",
+        "Ed Helms"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0180"
+    },
+    {
+      "text": "After being cast, John Krasinski, Jenna Fischer, Steve Carell and Rainn Wilson went to lunch and predicted the show would last how many years?",
+      "choices": [
+        "Six years",
+        "Eight years",
+        "Ten years",
+        "Two years"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0181"
+    },
+    {
+      "text": "In the episode 'Launch Party', Jim accidentally signs Meredith\u2019s cast with what actor's real name?",
+      "choices": [
+        "John Krasinski",
+        "Steve Carell",
+        "Rainn Wilson",
+        "Ed Helms"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Episode: Launch Party",
+      "id": "OFF-0182"
+    },
+    {
+      "text": "Who is Steve Carell married to in real life, a woman who also played a real estate agent on the show?",
+      "choices": [
+        "Nancy Carell",
+        "Jenna Fischer",
+        "Angela Kinsey",
+        "Amy Adams"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0183"
+    },
+    {
+      "text": "What was hidden inside the teapot Jim gave to Pam in the episode 'Christmas Party'?",
+      "choices": [
+        "A note written by John Krasinski",
+        "A $20 gift card",
+        "A drawing of Dwight",
+        "A yogurt lid medal"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Episode: Christmas Party",
+      "id": "OFF-0184"
+    },
+    {
+      "text": "Mindy Kaling liked to prank B.J. Novak by doing what?",
+      "choices": [
+        "Making up lies about their co\u2011stars",
+        "Hiding his script",
+        "Swapping his chair",
+        "Calling him Dwight"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0185"
+    },
+    {
+      "text": "During Jim and Dwight's fight scenes, what did the actors often exchange?",
+      "choices": [
+        "Arguing tips",
+        "Actual punches",
+        "Improvised insults",
+        "Fake weapons"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0186"
+    },
+    {
+      "text": "Which actors from The Office went on to direct episodes of the show?",
+      "choices": [
+        "John Krasinski, Ed Helms, Mindy Kaling & B.J. Novak",
+        "Steve Carell & Rainn Wilson",
+        "Jenna Fischer & Angela Kinsey",
+        "None of them"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0187"
+    },
+    {
+      "text": "Extra footage shot for many episodes meant that some could have run how long?",
+      "choices": [
+        "Twice as long",
+        "Half as long",
+        "Only 20 minutes",
+        "Exactly as aired"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0188"
+    },
+    {
+      "text": "Production once had to shut down because John Krasinski and Rainn Wilson couldn't stop laughing during which character's birthday party?",
+      "choices": [
+        "Kelly's",
+        "Meredith's",
+        "Kevin's",
+        "Stanley's"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0189"
+    },
+    {
+      "text": "Before The Office aired on NBC, the writers shopped the show to which networks?",
+      "choices": [
+        "HBO and FX",
+        "CBS and ABC",
+        "Fox and The CW",
+        "Netflix and Amazon"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Development",
+      "id": "OFF-0190"
+    },
+    {
+      "text": "Why did Steve Carell ultimately leave the show after seven seasons?",
+      "choices": [
+        "He wasn't offered a new contract",
+        "He wanted to pursue film roles",
+        "He was fired",
+        "His character was written out"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0191"
+    },
+    {
+      "text": "Which network executive belief plagued season one, according to Greg Daniels?",
+      "choices": [
+        "Each episode might be the last",
+        "The show would run forever",
+        "The cast needed to be recast",
+        "It should be animated"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0192"
+    },
+    {
+      "text": "What real organization made Dunder Mifflin an honorary member?",
+      "choices": [
+        "Greater Scranton Chamber of Commerce",
+        "Pennsylvania Paper Association",
+        "U.S. Postal Service",
+        "Scranton Rotary Club"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0193"
+    },
+    {
+      "text": "Kate Flannery insisted on doing her own stunt in an episode involving what creature?",
+      "choices": [
+        "A bat",
+        "A raccoon",
+        "A snake",
+        "A spider"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0194"
+    },
+    {
+      "text": "During the 2007 writers' strike, Steve Carell called in sick citing what condition to avoid crossing the picket line?",
+      "choices": [
+        "Enlarged balls",
+        "Sprained ankle",
+        "Laryngitis",
+        "Migraine"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0195"
+    },
+    {
+      "text": "The gas station proposal scene in season five cost approximately how much to film?",
+      "choices": [
+        "$250,000",
+        "$50,000",
+        "$1 million",
+        "$100,000"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0196"
+    },
+    {
+      "text": "The season five episode 'Dinner Party' is unusual because the script was what?",
+      "choices": [
+        "Never rewritten",
+        "Written by Steve Carell",
+        "Improvised entirely",
+        "Originally a British episode"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0197"
+    },
+    {
+      "text": "Which training video from The Office was later used in NBC's real sexual harassment seminars?",
+      "choices": [
+        "'Diversity Day'",
+        "'Safety Training'",
+        "'Stress Relief'",
+        "'Lecture Circuit'"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0198"
+    },
+    {
+      "text": "Which actor performed her own stunt when Dwight trapped a creature over Meredith's head?",
+      "choices": [
+        "Kate Flannery",
+        "Angela Kinsey",
+        "Jenna Fischer",
+        "Mindy Kaling"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0199"
+    },
+    {
+      "text": "What animals does Dwight Schrute raise on his farm in real life, inspiring the beet farm shown on the series?",
+      "choices": [
+        "Beets",
+        "Beets and turkeys",
+        "Beets and pigs",
+        "Beets and chickens"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0200"
+    },
+    {
+      "text": "Which actor once wrote and directed an episode while still starring as his character?",
+      "choices": [
+        "Paul Lieberstein",
+        "Rainn Wilson",
+        "Steve Carell",
+        "Brian Baumgartner"
+      ],
+      "answerIndex": 2,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0201"
+    },
+    {
+      "text": "The cast once built a gas station set in the parking lot of a Best Buy to film which moment?",
+      "choices": [
+        "Jim's proposal",
+        "Michael's goodbye",
+        "Pam's art show",
+        "Dwight's bee sting"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0202"
+    },
+    {
+      "text": "According to showrunner Paul Lieberstein, what quality made James Spader's Robert California captivating on set?",
+      "choices": [
+        "He fully committed to character",
+        "He wrote his own lines",
+        "He improvised jokes",
+        "He insisted on multiple takes"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0203"
+    },
+    {
+      "text": "What everyday device on the set actually worked and allowed the actors to browse the internet during filming?",
+      "choices": [
+        "Their computers",
+        "The vending machine",
+        "The copy machine",
+        "The elevator"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Set Design",
+      "id": "OFF-0204"
+    },
+    {
+      "text": "How many episodes of The Office were produced in total?",
+      "choices": [
+        "201",
+        "150",
+        "180",
+        "220"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0205"
+    },
+    {
+      "text": "Which actor improvises the majority of his lines as Creed, drawing from his own eccentric personality?",
+      "choices": [
+        "Creed Bratton",
+        "Rainn Wilson",
+        "Brian Baumgartner",
+        "Oscar Nunez"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0206"
+    },
+    {
+      "text": "Who composed the original British Office series that inspired the U.S. adaptation?",
+      "choices": [
+        "Ricky Gervais and Stephen Merchant",
+        "Greg Daniels",
+        "Mindy Kaling",
+        "John Cleese"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0207"
+    },
+    {
+      "text": "What is the name of the annual awards ceremony Michael hosts for his employees?",
+      "choices": [
+        "The Dundies",
+        "The Scranties",
+        "The Scotties",
+        "The Dunder Awards"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S2E1",
+      "id": "OFF-0208"
+    },
+    {
+      "text": "Which character cuts the face off a CPR dummy and wears it?",
+      "choices": [
+        "Dwight Schrute",
+        "Michael Scott",
+        "Andy Bernard",
+        "Meredith Palmer"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S5E13",
+      "id": "OFF-0209"
+    },
+    {
+      "text": "At Jim and Pam's wedding, which song do their coworkers dance down the aisle to?",
+      "choices": [
+        "Forever by Chris Brown",
+        "Single Ladies",
+        "Let's Get It Started",
+        "Crazy in Love"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S6E4",
+      "id": "OFF-0210"
+    },
+    {
+      "text": "What regional manager does Michael impersonate in the cold open where he dances to his own ringtone?",
+      "choices": [
+        "David Brent",
+        "Ed Truck",
+        "Dwight Schrute",
+        "Jo Bennett"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S7E15",
+      "id": "OFF-0211"
+    },
+    {
+      "text": "Who started the fire that inspired Michael to sing, 'Ryan started the fire!'?",
+      "choices": [
+        "Ryan Howard",
+        "Dwight Schrute",
+        "Angela Martin",
+        "Kevin Malone"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S2E4",
+      "id": "OFF-0212"
+    },
+    {
+      "text": "During the 'Booze Cruise', what does Pam tell Roy she wants to do with their wedding?",
+      "choices": [
+        "Set a date",
+        "Go to Niagara Falls",
+        "Postpone it",
+        "Elope in Vegas"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S2E11",
+      "id": "OFF-0213"
+    },
+    {
+      "text": "What is the password to enter the speakeasy in the 'Threat Level Midnight' film?",
+      "choices": [
+        "Scarn",
+        "Password",
+        "Goldenface",
+        "Dwight"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S7E17",
+      "id": "OFF-0214"
+    },
+    {
+      "text": "Which employee wins the gold medal in the Office Olympics?",
+      "choices": [
+        "Pam Beesly",
+        "Dwight Schrute",
+        "Jim Halpert",
+        "Angela Martin"
+      ],
+      "answerIndex": 1,
+      "category": "Episodes",
+      "source": "S2E3",
+      "id": "OFF-0215"
+    },
+    {
+      "text": "What does Michael burn his foot on while cooking breakfast in bed?",
+      "choices": [
+        "A George Foreman grill",
+        "A toaster",
+        "A frying pan",
+        "A candle"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S2E12",
+      "id": "OFF-0216"
+    },
+    {
+      "text": "Who becomes the temporary regional manager when Michael leaves for Colorado?",
+      "choices": [
+        "Deangelo Vickers",
+        "Dwight Schrute",
+        "Andy Bernard",
+        "Robert California"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S7E23",
+      "id": "OFF-0217"
+    },
+    {
+      "text": "In the cold open where everyone does parkour, who ultimately ends up in a refrigerator box?",
+      "choices": [
+        "Andy Bernard",
+        "Michael Scott",
+        "Jim Halpert",
+        "Kevin Malone"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S6E1",
+      "id": "OFF-0218"
+    },
+    {
+      "text": "What item does Dwight cut the face off of and wear, referencing a famous movie?",
+      "choices": [
+        "CPR dummy",
+        "Pumpkin",
+        "Life\u2011size doll",
+        "Mannequin"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S5E13",
+      "id": "OFF-0219"
+    },
+    {
+      "text": "Which of Jim's pranks involves putting Dwight's stapler into what?",
+      "choices": [
+        "Jell\u2011O",
+        "Gelatin mold",
+        "A gelatin dessert",
+        "All of the above"
+      ],
+      "answerIndex": 3,
+      "category": "Episodes",
+      "source": "S1E1",
+      "id": "OFF-0220"
+    },
+    {
+      "text": "What is the name of the company that buys Dunder Mifflin in season 6?",
+      "choices": [
+        "Sabre",
+        "Staples",
+        "Prince Family Paper",
+        "Utica Paper"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S6E16",
+      "id": "OFF-0221"
+    },
+    {
+      "text": "Which branch does Jim transfer to briefly before returning to Scranton?",
+      "choices": [
+        "Stamford",
+        "Utica",
+        "Nashua",
+        "Buffalo"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S3E1",
+      "id": "OFF-0222"
+    },
+    {
+      "text": "What song does Michael mistakenly perform at his own goodbye party, thinking it will cheer everyone up?",
+      "choices": [
+        "Closing Time",
+        "Happy Birthday",
+        "Free Bird",
+        "Bohemian Rhapsody"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S7E22",
+      "id": "OFF-0223"
+    },
+    {
+      "text": "What is Creed's official job title at Dunder Mifflin?",
+      "choices": [
+        "Quality Assurance",
+        "Regional Manager",
+        "Sales Representative",
+        "Accounts Payable"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "General",
+      "id": "OFF-0224"
+    },
+    {
+      "text": "Which branch of Dunder Mifflin does Karen Filippelli manage after leaving Scranton?",
+      "choices": [
+        "Utica",
+        "Stamford",
+        "Buffalo",
+        "Nashua"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "S4E12",
+      "id": "OFF-0225"
+    },
+    {
+      "text": "What is Dwight's official title when he is temporarily promoted in season 3?",
+      "choices": [
+        "Assistant Regional Manager",
+        "Assistant to the Regional Manager",
+        "Acting Manager",
+        "Co\u2011Regional Manager"
+      ],
+      "answerIndex": 2,
+      "category": "Characters",
+      "source": "S3E15",
+      "id": "OFF-0226"
+    },
+    {
+      "text": "Which character famously declares, 'I am Beyonc\u00e9, always' when arguing over their favorite singer?",
+      "choices": [
+        "Michael Scott",
+        "Kelly Kapoor",
+        "Stanley Hudson",
+        "Andy Bernard"
+      ],
+      "answerIndex": 1,
+      "category": "Quotes",
+      "source": "S4E2",
+      "id": "OFF-0227"
+    },
+    {
+      "text": "Finish the quote: 'Bears. Beets. ________.',",
+      "choices": [
+        "Battlestar Galactica",
+        "Battlefield Earth",
+        "Batman Returns",
+        "Battle Royale"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S3E3",
+      "id": "OFF-0228"
+    },
+    {
+      "text": "Who says, 'I declare bankruptcy!' after misunderstanding how bankruptcy works?",
+      "choices": [
+        "Michael Scott",
+        "Kevin Malone",
+        "Andy Bernard",
+        "Dwight Schrute"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S4E4",
+      "id": "OFF-0229"
+    },
+    {
+      "text": "Which character insists that he's not superstitious, just 'a little stitious'?",
+      "choices": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Creed Bratton"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S4E2",
+      "id": "OFF-0230"
+    },
+    {
+      "text": "Who tells Michael, 'Sometimes I'll start a sentence and I don't even know where it's going' while being interviewed?",
+      "choices": [
+        "Michael Scott",
+        "Kevin Malone",
+        "Kelly Kapoor",
+        "Stanley Hudson"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S5E6",
+      "id": "OFF-0231"
+    },
+    {
+      "text": "Complete the quote: 'I'm not usually the butt of the joke. I'm usually the face of the ____.'",
+      "choices": [
+        "Company",
+        "Joke",
+        "Office",
+        "Branch"
+      ],
+      "answerIndex": 1,
+      "category": "Quotes",
+      "source": "S3E13",
+      "id": "OFF-0232"
+    },
+    {
+      "text": "What does Dwight say his perfect date is in response to Michael's request?",
+      "choices": [
+        "April 20th",
+        "April 25th",
+        "May 20th",
+        "June 15th"
+      ],
+      "answerIndex": 1,
+      "category": "Quotes",
+      "source": "S4E11",
+      "id": "OFF-0233"
+    },
+    {
+      "text": "Which character remarks, 'I talk a lot, so I've learned to tune myself out'?",
+      "choices": [
+        "Kelly Kapoor",
+        "Michael Scott",
+        "Jim Halpert",
+        "Andy Bernard"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S4E4",
+      "id": "OFF-0234"
+    },
+    {
+      "text": "Who said, 'I'm not superstitious, but I'm a little stitious'?",
+      "choices": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Jim Halpert",
+        "Pam Beesly"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S4E2",
+      "id": "OFF-0235"
+    },
+    {
+      "text": "According to Creed, which day is 'everybody's birthday'?",
+      "choices": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "answerIndex": 3,
+      "category": "Characters",
+      "source": "General",
+      "id": "OFF-0236"
+    },
+    {
+      "text": "Which character states, 'Sometimes I start a sentence and I don't even know where it's going' during a talking head?",
+      "choices": [
+        "Michael Scott",
+        "Kelly Kapoor",
+        "Kevin Malone",
+        "Andy Bernard"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "S5E6",
+      "id": "OFF-0237"
+    },
+    {
+      "text": "Jim famously proposes to Pam where?",
+      "choices": [
+        "A gas station",
+        "Dunder Mifflin parking lot",
+        "Niagara Falls",
+        "Caf\u00e9 Disco"
+      ],
+      "answerIndex": 0,
+      "category": "Episodes",
+      "source": "S5E1",
+      "id": "OFF-0238"
+    },
+    {
+      "text": "What pet does Angela own multiple of and consider her children?",
+      "choices": [
+        "Cats",
+        "Dogs",
+        "Birds",
+        "Fish"
+      ],
+      "answerIndex": 0,
+      "category": "Characters",
+      "source": "General",
+      "id": "OFF-0239"
+    },
+    {
+      "text": "Which character is known for saying 'That's what she said'?",
+      "choices": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Stanley Hudson"
+      ],
+      "answerIndex": 0,
+      "category": "Quotes",
+      "source": "General",
+      "id": "OFF-0240"
+    },
+    {
+      "text": "Who was the very first actor cast for the U.S. version of The Office?",
+      "choices": [
+        "John Krasinski",
+        "B.J. Novak",
+        "Rainn Wilson",
+        "Steve Carell"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0241"
+    },
+    {
+      "text": "Which actor convinced producers to let him audition for Jim instead of Dwight, then worried aloud that Americans would ruin the adaptation?",
+      "choices": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Seth Rogen",
+        "Adam Scott"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Auditions",
+      "id": "OFF-0242"
+    },
+    {
+      "text": "Which comedian auditioned for the role of Dwight Schrute before Rainn Wilson was cast?",
+      "choices": [
+        "Seth Rogen",
+        "Adam Scott",
+        "Eric Stonestreet",
+        "John Krasinski"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0243"
+    },
+    {
+      "text": "Eric Stonestreet \u2014 later of Modern Family fame \u2014 auditioned for which role on The Office?",
+      "choices": [
+        "Michael Scott",
+        "Kevin Malone",
+        "Creed Bratton",
+        "Stanley Hudson"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0244"
+    },
+    {
+      "text": "Before being cast as Angela Martin, which character did Angela Kinsey audition for?",
+      "choices": [
+        "Pam Beesly",
+        "Meredith Palmer",
+        "Kelly Kapoor",
+        "Jan Levinson"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0245"
+    },
+    {
+      "text": "Who was originally cast as Michael Scott before Steve Carell took over the role?",
+      "choices": [
+        "Bob Odenkirk",
+        "David Koechner",
+        "Ricky Gervais",
+        "Will Ferrell"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0246"
+    },
+    {
+      "text": "Which actor shot footage of Scranton that ended up being used in the show's opening credits?",
+      "choices": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Steve Carell",
+        "B.J. Novak"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Production",
+      "id": "OFF-0247"
+    },
+    {
+      "text": "Several cast members interned for which late\u2011night host before starring on The Office?",
+      "choices": [
+        "Jimmy Fallon",
+        "Conan O'Brien",
+        "David Letterman",
+        "Jay Leno"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Cast Careers",
+      "id": "OFF-0248"
+    },
+    {
+      "text": "What was Phyllis Smith's job when she was asked to play her namesake character?",
+      "choices": [
+        "Casting associate",
+        "Script supervisor",
+        "Costume designer",
+        "Location scout"
+      ],
+      "answerIndex": 0,
+      "category": "Production",
+      "source": "Casting",
+      "id": "OFF-0249"
+    },
+    {
+      "text": "The pilot episode of the U.S. Office reused the script from which version of the show?",
+      "choices": [
+        "Seinfeld",
+        "The Office (UK)",
+        "Arrested Development",
+        "Parks and Recreation"
+      ],
+      "answerIndex": 1,
+      "category": "Production",
+      "source": "Pilot",
+      "id": "OFF-0250"
+    }
+  ]
+}
